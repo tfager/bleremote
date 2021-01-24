@@ -1,0 +1,13 @@
+{ "id": "bleremote",
+  "name": "BLE Remote",
+  "shortName": "Remote",
+  "icon": "remote.png",
+  "version": "0.1",
+  "description": "Send command strings via BLE advertising",
+  "tags": "ble",
+  "storage": [
+    {"name":"bleremote.app.js","url":"bleremote.js"},
+    {"name":"bleremote.img","url":"app-icon.js","evaluate":true}
+  ]
+}
+  
