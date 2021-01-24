@@ -1,0 +1,7 @@
+{ "id": "bleremote",
+  "src": "bleremote.app.js",
+  "name": "BLE Remote",
+  "shortName": "Remote",
+  "icon": "bleremote.img"
+}
+  
